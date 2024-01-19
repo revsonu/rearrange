@@ -1,4 +1,4 @@
 Rearranging file 
 =========
 
-we are usign this module for rearranging names.
+we are using this module for rearranging names.
